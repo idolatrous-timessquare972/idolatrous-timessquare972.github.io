@@ -180,8 +180,8 @@ a { color: inherit; }
 .jc-main { min-width: 0; }
 .jc-side { min-width: 0; display: flex; flex-direction: column; justify-content: center; gap: 14px; }
 .metrics { display: grid; grid-template-columns: repeat(auto-fit, minmax(118px, 1fr)); gap: 10px; }
-.metric { border: 2px solid var(--line); border-radius: 12px; padding: 12px 12px 10px; background: var(--paper); }
-.metric .mn { font-family: var(--display); font-weight: 800; font-size: clamp(1.35rem, 2vw, 1.7rem); line-height: 1; color: var(--c); }
+.metric { border: 2px solid var(--line); border-radius: 12px; padding: 12px 12px 10px; background: var(--paper); min-width: 0; }
+.metric .mn { font-family: var(--display); font-weight: 800; font-size: clamp(1.15rem, 1.55vw, 1.5rem); line-height: 1.04; letter-spacing: -0.02em; color: var(--c); white-space: nowrap; }
 .metric .ml { font-family: var(--mono); font-size: 0.65rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; color: var(--muted); margin-top: 7px; line-height: 1.45; }
 .awrow { display: flex; flex-wrap: wrap; gap: 8px; }
 .awchip { display: inline-flex; align-items: center; gap: 7px; border: 2px solid var(--line); border-radius: 999px; background: var(--yellow); padding: 5px 12px; font-family: var(--mono); font-size: 0.7rem; font-weight: 700; color: var(--ink); }
