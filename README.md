@@ -45,11 +45,13 @@ python3 -m http.server 8080
 
 ## Deployment
 
-Pushing to `main` triggers `.github/workflows/deploy.yml`, which publishes the
-repo to GitHub Pages.
+This is a static site — GitHub Pages serves the files directly, no build step.
 
 > **One-time setup:** in the repo, go to **Settings → Pages → Build and
-> deployment → Source** and select **GitHub Actions**.
+> deployment → Source** and select **Deploy from a branch → `main` → `/ (root)`**.
+
+After that, every push to `main` republishes automatically (GitHub's built-in
+Pages builder). `.nojekyll` tells Pages to serve the files as-is.
 
 ## Routing
 
