@@ -7,6 +7,112 @@
   },
   "cards": [
     {
+      "c": "var(--blue)",
+      "kicker": "AI in testing",
+      "title": "AI-augmented testing",
+      "desc": "Bringing AI into everyday testing — prompt-driven exploration, AI-assisted analysis and risk discovery — while keeping human judgment firmly in the loop.",
+      "metrics": [],
+      "groups": [
+        {
+          "l": "Practices",
+          "chips": [
+            [
+              "Prompt Engineering",
+              true
+            ],
+            [
+              "AI-assisted testing",
+              false
+            ],
+            [
+              "AI + heuristics",
+              false
+            ],
+            [
+              "Risk analysis with AI",
+              false
+            ]
+          ]
+        },
+        {
+          "l": "Tools",
+          "chips": [
+            [
+              "Claude Code",
+              true
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "c": "var(--violet)",
+      "kicker": "Testing craft",
+      "title": "Context-driven &amp; exploratory",
+      "desc": "Rapid Software Testing (Bach &amp; Bolton) — risk-based, heuristic &amp; AI-assisted; shift-left strategy and deep issue investigation.",
+      "metrics": [],
+      "groups": [
+        {
+          "l": "Approach",
+          "chips": [
+            [
+              "RST",
+              1
+            ],
+            [
+              "Exploratory",
+              0
+            ],
+            [
+              "Risk-based",
+              0
+            ],
+            [
+              "Shift-left",
+              0
+            ],
+            [
+              "TDD · BDD · ATDD",
+              0
+            ]
+          ]
+        },
+        {
+          "l": "Test management",
+          "chips": [
+            [
+              "Jira",
+              0
+            ],
+            [
+              "XRay",
+              0
+            ],
+            [
+              "Rally",
+              0
+            ],
+            [
+              "HP QA ALM",
+              0
+            ],
+            [
+              "Testlink",
+              0
+            ],
+            [
+              "Redmine",
+              0
+            ],
+            [
+              "Bugzilla",
+              0
+            ]
+          ]
+        }
+      ]
+    },
+    {
       "c": "var(--teal)",
       "kicker": "Automation frameworks",
       "title": "API &amp; UI automation",
@@ -162,94 +268,6 @@
             ],
             [
               "Custom HTML",
-              0
-            ]
-          ]
-        }
-      ]
-    },
-    {
-      "c": "var(--violet)",
-      "kicker": "Testing craft",
-      "title": "Context-driven &amp; exploratory",
-      "desc": "Rapid Software Testing (Bach &amp; Bolton) — risk-based, heuristic &amp; AI-assisted; shift-left strategy and deep issue investigation.",
-      "metrics": [],
-      "groups": [
-        {
-          "l": "Approach",
-          "chips": [
-            [
-              "RST",
-              1
-            ],
-            [
-              "Exploratory",
-              0
-            ],
-            [
-              "Risk-based",
-              0
-            ],
-            [
-              "Shift-left",
-              0
-            ],
-            [
-              "TDD · BDD · ATDD",
-              0
-            ]
-          ]
-        },
-        {
-          "l": "AI in testing",
-          "chips": [
-            [
-              "Prompt Engineering",
-              1
-            ],
-            [
-              "AI-assisted testing",
-              0
-            ],
-            [
-              "Claude Code",
-              0
-            ],
-            [
-              "Risk analysis with AI",
-              0
-            ]
-          ]
-        },
-        {
-          "l": "Test management",
-          "chips": [
-            [
-              "Jira",
-              0
-            ],
-            [
-              "XRay",
-              0
-            ],
-            [
-              "Rally",
-              0
-            ],
-            [
-              "HP QA ALM",
-              0
-            ],
-            [
-              "Testlink",
-              0
-            ],
-            [
-              "Redmine",
-              0
-            ],
-            [
-              "Bugzilla",
               0
             ]
           ]
