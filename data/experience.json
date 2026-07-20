@@ -21,10 +21,6 @@
         {
           "n": "+54%",
           "l": "QoQ scenario coverage growth"
-        },
-        {
-          "n": "1M+",
-          "l": "Records covered by automation"
         }
       ],
       "awards": [
@@ -74,8 +70,8 @@
           "l": "ERP products on the framework"
         },
         {
-          "n": "1 page",
-          "l": "QA reporting for every SCM product"
+          "n": "Real-time",
+          "l": "Live quality visibility across every QA team"
         }
       ],
       "awards": []
