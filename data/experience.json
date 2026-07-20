@@ -31,7 +31,7 @@
         },
         {
           "icon": "🤝",
-          "title": "Dream Team Award",
+          "title": "The Dream Team",
           "note": "May 2025"
         },
         {
@@ -66,7 +66,7 @@
         {
           "icon": "🏆",
           "title": "The 24K Gold Award",
-          "note": "2021"
+          "note": "Oct 2021"
         }
       ]
     },
@@ -141,8 +141,13 @@
       "awards": [
         {
           "icon": "⭐",
-          "title": "Spot Awards &amp; Bugathon",
-          "note": "Runner-up · 2017"
+          "title": "Spot Award",
+          "note": "Sep 2017"
+        },
+        {
+          "icon": "🥈",
+          "title": "Bugathon Runner-up",
+          "note": "2nd place · Apr 2017"
         }
       ]
     },
@@ -161,7 +166,7 @@
         {
           "icon": "⭐",
           "title": "Spot Award",
-          "note": "2014"
+          "note": "May 2014"
         }
       ]
     }
