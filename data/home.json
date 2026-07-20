@@ -1,0 +1,84 @@
+{
+  "kicker": "Senior Test Automation Engineer",
+  "titleHtml": "Checking automated.<br><span class=\"u\">Testing human.</span>",
+  "sub": "11+ years of scalable automation frameworks &amp; context-driven testing — and 1000+ engineers trained to tell the difference.",
+  "email": "kunalashar.25@gmail.com",
+  "reach": [
+    "New opportunities",
+    "Collaborations &amp; ideas",
+    "Speaking at events",
+    "Corporate trainings"
+  ],
+  "badges": [
+    {
+      "k": "focus",
+      "style": "--bc:var(--orange);color:var(--ink)",
+      "v": "Testing Solution Architect · AI-in-Testing · Context-driven"
+    },
+    {
+      "k": "based",
+      "style": "--bc:var(--yellow)",
+      "v": "Singapore"
+    },
+    {
+      "k": "community",
+      "style": "--bc:var(--violet);color:#fff",
+      "v": "Test Tribe · MoT · Taqelah"
+    }
+  ],
+  "stats": [
+    {
+      "c": "var(--blue)",
+      "to": 11,
+      "suffix": "+",
+      "label": "Years in<br>QA &amp; automation"
+    },
+    {
+      "c": "var(--orange)",
+      "to": 1000,
+      "suffix": "+",
+      "label": "Engineers<br>trained"
+    },
+    {
+      "c": "var(--teal)",
+      "to": 20,
+      "suffix": "+",
+      "label": "Community talks<br>&amp; events delivered"
+    },
+    {
+      "c": "var(--green-ink)",
+      "to": 10,
+      "suffix": "K+",
+      "label": "Community<br>reached"
+    },
+    {
+      "c": "var(--violet)",
+      "to": 7,
+      "suffix": "",
+      "label": "Awards<br>won"
+    }
+  ],
+  "explore": [
+    {
+      "c": "var(--blue)",
+      "href": "#/work",
+      "k": "Experience →",
+      "d": "11+ years across payments, CPaaS, ERP &amp; media.",
+      "go": "See the journey"
+    },
+    {
+      "c": "var(--teal)",
+      "href": "#/skills",
+      "k": "Skills &amp; tools →",
+      "d": "Frameworks, CI, performance &amp; context-driven testing.",
+      "go": "Explore"
+    },
+    {
+      "c": "var(--orange)",
+      "href": "#/speaking",
+      "k": "Speaking →",
+      "d": "Talks, bootcamps &amp; the testing community.",
+      "go": "Come say hi"
+    }
+  ]
+}

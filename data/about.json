@@ -1,0 +1,49 @@
+{
+  "head": {
+    "sparkClass": "y",
+    "eyebrow": "Nice to meet you",
+    "h1": "About",
+    "intro": ""
+  },
+  "paras": [
+    "I&#8217;m a Senior Test Automation Engineer, context-driven tester and quality solution architect with <strong>11+ years</strong> in testing and automation. I&#8217;m a <em>“best of both worlds” tester</em> — deep testing knowledge plus the engineering to build scalable frameworks and tools tailored to the business.",
+    "I follow the <strong>Rapid Software Testing</strong> approach by James Bach &amp; Michael Bolton — context-driven and exploratory at heart, tailoring strategy to each project instead of one-size-fits-all. As a quality coach, I&#8217;ve trained <strong>1000+</strong> professionals within and beyond my organizations. On the side, I build things like Hapti — a workout PWA."
+  ],
+  "quoteHtml": "&#8220;Quality is <span class=\"hl\">value to some person</span> who matters.&#8221;",
+  "education": [
+    [
+      "M.Sc. — Information Technology",
+      "University of Mumbai · 2014–2016"
+    ],
+    [
+      "B.Sc. — Computer Science",
+      "K. C. College, Mumbai · 2009–2012"
+    ],
+    [
+      "Diploma in Software Testing",
+      "Seed Infotech · 2013 · Grade A"
+    ]
+  ],
+  "certs": [
+    [
+      "ISTQB — Certified Tester Foundation (CTFL)",
+      "ISTQB · 2013"
+    ],
+    [
+      "AWS Certified Cloud Practitioner",
+      "AWS · 2022"
+    ],
+    [
+      "Rapid Software Testing — Explored",
+      "James Bach, Satisfice · 2023"
+    ],
+    [
+      "API Security Fundamentals",
+      "APIsec University · 2025"
+    ],
+    [
+      "+ 15 more courses",
+      "Test Automation University, The Test Tribe &amp; more"
+    ]
+  ]
+}

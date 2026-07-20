@@ -1,0 +1,149 @@
+{
+  "head": {
+    "sparkClass": "b",
+    "eyebrow": "The journey so far",
+    "h1": "Experience",
+    "intro": "From functional tester to automation lead to quality architect — across payments, cloud communications, ERP and entertainment, in Singapore and India."
+  },
+  "jobs": [
+    {
+      "c": "var(--teal)",
+      "when": "May 2024 — Present · 2 yrs 3 mos",
+      "now": true,
+      "company": "8x8 International",
+      "role": "Senior Test Automation Engineer",
+      "place": "Singapore · Hybrid · Communications Platform (CPaaS)",
+      "bullets": [
+        "BDD-style API automation framework with Reqnroll (Gherkin) &amp; C# — CI, shift-left strategy &amp; AI-assisted testing for CPaaS.",
+        "Async-event automation infrastructure across Kannel, Webhooks &amp; SMPP servers."
+      ],
+      "metrics": [
+        {
+          "n": "+54%",
+          "l": "QoQ scenario coverage growth"
+        },
+        {
+          "n": "1M+",
+          "l": "Records covered by automation"
+        }
+      ],
+      "awards": [
+        "🏆 Hackathon Gold · 1st place &#8217;25",
+        "🤝 Dream Team Award &#8217;25",
+        "🥇 Leader Award &#8217;25"
+      ]
+    },
+    {
+      "c": "var(--blue)",
+      "when": "Nov 2020 — Apr 2024 · 3 yrs 6 mos",
+      "now": false,
+      "company": "Xendit",
+      "role": "Senior Quality Assurance Engineer",
+      "place": "Singapore · Payment Gateway",
+      "bullets": [
+        "Built the org&#8217;s core QA libraries &amp; template projects with Cypress + TypeScript, leading a core automation team.",
+        "One of the Xendit Architects — representing QA in development architecture planning."
+      ],
+      "metrics": [
+        {
+          "n": "14d → 1",
+          "l": "Team onboarding to automation"
+        },
+        {
+          "n": "100+",
+          "l": "Managers &amp; devs coached"
+        }
+      ],
+      "awards": [
+        "🏆 The 24K Gold Award &#8217;21"
+      ]
+    },
+    {
+      "c": "var(--orange)",
+      "when": "Apr 2019 — Nov 2020 · 1 yr 8 mos",
+      "now": false,
+      "company": "Works Applications",
+      "role": "Senior Quality Assurance Engineer",
+      "place": "Singapore · Supply Chain Management (ERP)",
+      "bullets": [
+        "Data-driven API framework integrated with databases; org-wide performance testing with JMeter, Taurus &amp; Blazemeter."
+      ],
+      "metrics": [
+        {
+          "n": "1 → All",
+          "l": "ERP products on the framework"
+        },
+        {
+          "n": "1 page",
+          "l": "QA reporting for every SCM product"
+        }
+      ],
+      "awards": []
+    },
+    {
+      "c": "var(--green-ink)",
+      "when": "Dec 2018 — Mar 2019 · 4 mos",
+      "now": false,
+      "company": "Gracenote",
+      "role": "Senior Software Engineer",
+      "place": "Mumbai, India · Entertainment metadata (GapZap)",
+      "bullets": [
+        "Refactored the Java + Selenium UI suite and built a Java + HttpClient API framework with an in-house reporting tool."
+      ],
+      "metrics": [
+        {
+          "n": "3h → 15m",
+          "l": "UI suite execution time"
+        },
+        {
+          "n": "200k+",
+          "l": "API calls in 30 minutes"
+        }
+      ],
+      "awards": []
+    },
+    {
+      "c": "var(--violet)",
+      "when": "Sep 2016 — Nov 2018 · 2 yrs 3 mos",
+      "now": false,
+      "company": "Zycus Infotech",
+      "role": "Automation Test Lead",
+      "place": "Mumbai, India · Source-to-Pay procurement",
+      "bullets": [
+        "Revamped the suite to end-to-end flows; grew from Software Test Engineer → Associate → Automation Test Lead."
+      ],
+      "metrics": [
+        {
+          "n": "60→98%",
+          "l": "Automation success rate"
+        },
+        {
+          "n": "5,000",
+          "l": "Cases revamped end-to-end"
+        },
+        {
+          "n": "12",
+          "l": "Engineers led"
+        }
+      ],
+      "awards": [
+        "⭐ Spot Awards &amp; Bugathon Runner-up &#8217;17"
+      ]
+    },
+    {
+      "c": "var(--indigo)",
+      "when": "Jan 2014 — Aug 2016 · 2 yrs 8 mos",
+      "now": false,
+      "company": "Ness Technologies",
+      "role": "Software Engineer",
+      "place": "Mumbai, India · Pearson (PANext)",
+      "bullets": [
+        "Functional &amp; automation testing (Selenium WebDriver) for the Pearson PANext student-registration platform."
+      ],
+      "metrics": [],
+      "awards": [
+        "⭐ Spot Award &#8217;14"
+      ]
+    }
+  ]
+}

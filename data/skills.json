@@ -1,0 +1,490 @@
+{
+  "head": {
+    "sparkClass": "l",
+    "eyebrow": "What I do",
+    "h1": "Skills &amp; toolkit",
+    "intro": "A &#8220;best of both worlds&#8221; tester — deep testing craft plus the engineering to build scalable frameworks — and everything I reach for day to day."
+  },
+  "cards": [
+    {
+      "c": "var(--teal)",
+      "kicker": "Automation frameworks",
+      "title": "API &amp; UI automation",
+      "desc": "Scalable, maintainable frameworks — BDD/TDD, data- &amp; keyword-driven — across web, API and services.",
+      "metrics": [],
+      "groups": [
+        {
+          "l": "Frameworks",
+          "chips": [
+            [
+              "Selenium",
+              1
+            ],
+            [
+              "Cypress",
+              1
+            ],
+            [
+              "Playwright",
+              1
+            ],
+            [
+              "Reqnroll",
+              1
+            ],
+            [
+              "Selenide",
+              0
+            ],
+            [
+              "Rest Assured",
+              0
+            ],
+            [
+              "TestNG",
+              0
+            ],
+            [
+              "Cucumber",
+              0
+            ],
+            [
+              "Mocha",
+              0
+            ],
+            [
+              "xUnit",
+              0
+            ]
+          ]
+        },
+        {
+          "l": "Languages",
+          "chips": [
+            [
+              "Java",
+              1
+            ],
+            [
+              "TypeScript",
+              1
+            ],
+            [
+              "C#",
+              1
+            ],
+            [
+              "JavaScript",
+              0
+            ],
+            [
+              "SQL",
+              0
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "c": "var(--indigo)",
+      "kicker": "Continuous quality",
+      "title": "CI/CD &amp; quality monitoring",
+      "desc": "Centralized pipelines and real-time dashboards that give stakeholders instant, trustworthy quality signal.",
+      "metrics": [],
+      "groups": [
+        {
+          "l": "CI/CD &amp; Ops",
+          "chips": [
+            [
+              "Jenkins",
+              1
+            ],
+            [
+              "Git",
+              0
+            ],
+            [
+              "BuddyWorks",
+              0
+            ],
+            [
+              "Maven",
+              0
+            ],
+            [
+              "NPM",
+              0
+            ],
+            [
+              "AWS",
+              0
+            ],
+            [
+              "Launch Darkly",
+              0
+            ],
+            [
+              "Splunk",
+              0
+            ],
+            [
+              "Datadog",
+              0
+            ],
+            [
+              "Sentry",
+              0
+            ],
+            [
+              "Stoplight",
+              0
+            ]
+          ]
+        },
+        {
+          "l": "Reporting",
+          "chips": [
+            [
+              "Allure",
+              0
+            ],
+            [
+              "Extent",
+              0
+            ],
+            [
+              "ReportNG",
+              0
+            ],
+            [
+              "Cucumber Report",
+              0
+            ],
+            [
+              "Custom HTML",
+              0
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "c": "var(--violet)",
+      "kicker": "Testing craft",
+      "title": "Context-driven &amp; exploratory",
+      "desc": "Rapid Software Testing (Bach &amp; Bolton) — risk-based, heuristic &amp; AI-assisted; shift-left strategy and deep issue investigation.",
+      "metrics": [],
+      "groups": [
+        {
+          "l": "Approach",
+          "chips": [
+            [
+              "RST",
+              1
+            ],
+            [
+              "Exploratory",
+              0
+            ],
+            [
+              "Risk-based",
+              0
+            ],
+            [
+              "Shift-left",
+              0
+            ],
+            [
+              "TDD · BDD · ATDD",
+              0
+            ]
+          ]
+        },
+        {
+          "l": "AI in testing",
+          "chips": [
+            [
+              "Prompt Engineering",
+              1
+            ],
+            [
+              "AI-assisted testing",
+              0
+            ],
+            [
+              "Claude Code",
+              0
+            ],
+            [
+              "Risk analysis with AI",
+              0
+            ]
+          ]
+        },
+        {
+          "l": "Test management",
+          "chips": [
+            [
+              "Jira",
+              0
+            ],
+            [
+              "XRay",
+              0
+            ],
+            [
+              "Rally",
+              0
+            ],
+            [
+              "HP QA ALM",
+              0
+            ],
+            [
+              "Testlink",
+              0
+            ],
+            [
+              "Redmine",
+              0
+            ],
+            [
+              "Bugzilla",
+              0
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "c": "var(--orange)",
+      "kicker": "Performance &amp; coaching",
+      "title": "Perf testing &amp; enablement",
+      "desc": "Load &amp; performance testing, plus quality coaching through bootcamps and organizational training.",
+      "metrics": [
+        {
+          "n": "1000+",
+          "l": "Engineers trained"
+        },
+        {
+          "n": "20+",
+          "l": "Talks &amp; events delivered"
+        }
+      ],
+      "groups": [
+        {
+          "l": "Performance",
+          "chips": [
+            [
+              "JMeter",
+              1
+            ],
+            [
+              "Taurus",
+              0
+            ],
+            [
+              "Blazemeter",
+              0
+            ],
+            [
+              "Gatling",
+              0
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "c": "var(--green-ink)",
+      "kicker": "Breadth",
+      "title": "Domains &amp; everyday field kit",
+      "desc": "Industries I&#8217;ve tested in, and the everyday utilities that make the craft faster.",
+      "metrics": [],
+      "groups": [
+        {
+          "l": "Domains",
+          "chips": [
+            [
+              "Payment Gateways",
+              1
+            ],
+            [
+              "CPaaS / Comms",
+              1
+            ],
+            [
+              "Supply Chain (ERP)",
+              0
+            ],
+            [
+              "Procurement",
+              0
+            ],
+            [
+              "Invoicing",
+              0
+            ],
+            [
+              "BFSI",
+              0
+            ],
+            [
+              "Media",
+              0
+            ],
+            [
+              "eLearning",
+              0
+            ]
+          ]
+        },
+        {
+          "l": "API &amp; Data",
+          "chips": [
+            [
+              "Postman",
+              1
+            ],
+            [
+              "Unirest",
+              0
+            ],
+            [
+              "HTTP Client",
+              0
+            ],
+            [
+              "Postgres",
+              0
+            ],
+            [
+              "MySQL",
+              0
+            ],
+            [
+              "MongoDB",
+              0
+            ]
+          ]
+        },
+        {
+          "l": "Low-code",
+          "chips": [
+            [
+              "Retool",
+              0
+            ],
+            [
+              "Zapier",
+              0
+            ],
+            [
+              "Pipedream",
+              0
+            ]
+          ]
+        },
+        {
+          "l": "Browser extensions",
+          "chips": [
+            [
+              "Bug Magnet",
+              0
+            ],
+            [
+              "Fake Filler",
+              0
+            ],
+            [
+              "Check My Links",
+              0
+            ],
+            [
+              "Clear Cache",
+              0
+            ],
+            [
+              "Exploratory Testing",
+              0
+            ],
+            [
+              "Request Interceptor",
+              0
+            ],
+            [
+              "Page Load Time",
+              0
+            ],
+            [
+              "Screen Recorder",
+              0
+            ],
+            [
+              "Test Credit Cards",
+              0
+            ]
+          ]
+        },
+        {
+          "l": "Handy sites",
+          "chips": [
+            [
+              "JSON Crack",
+              0
+            ],
+            [
+              "JSON Formatter",
+              0
+            ],
+            [
+              "Pairwise",
+              0
+            ],
+            [
+              "Faker UI",
+              0
+            ],
+            [
+              "FileGenerator",
+              0
+            ],
+            [
+              "Naughty Strings",
+              0
+            ],
+            [
+              "Support Details",
+              0
+            ]
+          ]
+        },
+        {
+          "l": "Dev stack",
+          "chips": [
+            [
+              "Jersey",
+              0
+            ],
+            [
+              "Bootstrap",
+              0
+            ],
+            [
+              "jQuery",
+              0
+            ],
+            [
+              "DataTables",
+              0
+            ],
+            [
+              "Tomcat",
+              0
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "head": {
+    "sparkClass": "o",
+    "eyebrow": "Community &amp; stage",
+    "h1": "Speaking &amp; community",
+    "intro": "Freelance testing speaker &amp; trainer since 2017 — conference workshops, meetup talks and hands-on automation bootcamps across the testing community."
+  },
+  "talks": [
+    {
+      "tc": "var(--violet)",
+      "type": "Meetup talk",
+      "title": "From Checklists to Discovery — Leveraging AI &amp; Embracing Curiosity in Testing",
+      "venue": "The Test Tribe · 35th Virtual Meetup · SBTM &amp; AI",
+      "year": "2025 ↗",
+      "href": "https://youtu.be/W6t4ndM_iMU"
+    },
+    {
+      "tc": "var(--blue)",
+      "type": "Workshop",
+      "title": "Getting Started with Cypress — build your own automation scripts",
+      "venue": "Worqference · The Test Tribe · workshops-only testing conference",
+      "year": "2022 ↗",
+      "href": "https://www.thetesttribe.com/worqference-cypress-kunal-ashar/"
+    },
+    {
+      "tc": "var(--orange)",
+      "type": "Bootcamp",
+      "title": "Automation Bootcamp with Selenium &amp; Java",
+      "venue": "The Test Tribe · 45+ hrs · 85+ hands-on exercises · 3 batches",
+      "year": "2020–22 ↗",
+      "href": "https://www.thetesttribe.com/event/automation-bootcamp-with-selenium-and-java-batch-3/"
+    },
+    {
+      "tc": "var(--green-ink)",
+      "type": "Meetup talk",
+      "title": "Components of a Good Automation Framework",
+      "venue": "Virtual testing meetup · recorded session",
+      "year": "2020 ↗",
+      "href": "https://www.youtube.com/watch?v=d12AaevlOZ0"
+    },
+    {
+      "tc": "var(--teal)",
+      "type": "Lightning talk",
+      "title": "API Testing — there&#8217;s more to it than pressing Send",
+      "venue": "Taqelah Lightning Talks · Singapore",
+      "year": "2020 ↗",
+      "href": "https://lightningtalks.taqelah.com/"
+    }
+  ],
+  "recordings": [
+    "https://youtu.be/mfAvj-Azc2Y",
+    "https://youtu.be/dtZ4X4fG9Yk",
+    "https://youtu.be/sRMexhZp3hI",
+    "https://youtu.be/cP3HmqTAC54"
+  ],
+  "shorts": [
+    {
+      "label": "API testing tips",
+      "href": "https://www.youtube.com/shorts/LMQYCic-dCY"
+    },
+    {
+      "label": "Short",
+      "href": "https://www.youtube.com/shorts/NbpHhWAy46A"
+    }
+  ],
+  "communities": [
+    {
+      "c": "var(--violet)",
+      "name": "The Test Tribe",
+      "href": "https://www.thetesttribe.com/",
+      "items": [
+        [
+          "Inaugural core team member",
+          "Community volunteer since Jan 2018"
+        ],
+        [
+          "Automation Trainer",
+          "3 Selenium &amp; Java bootcamp batches · 2020–2022"
+        ],
+        [
+          "Talks, workshops &amp; sessions",
+          "Delivered across the community &amp; on YouTube"
+        ]
+      ]
+    },
+    {
+      "c": "var(--teal)",
+      "name": "Ministry of Testing",
+      "href": "https://www.ministryoftesting.com/",
+      "items": [
+        [
+          "Community member",
+          "Since June 2025"
+        ],
+        [
+          "Learning &amp; collaborating",
+          "With testers around the world"
+        ]
+      ]
+    },
+    {
+      "c": "var(--teal)",
+      "name": "Taqelah",
+      "href": "https://taqelah.sg/",
+      "items": [
+        [
+          "Community member &amp; speaker",
+          "Singapore&#8217;s test automation &amp; QE community"
+        ],
+        [
+          "Lightning talks &amp; meetups",
+          "Speaker at Taqelah Lightning Talks 2020"
+        ]
+      ]
+    }
+  ],
+  "training": {
+    "title": "Training &amp; coaching",
+    "items": [
+      [
+        "Freelance speaker &amp; trainer",
+        "Since Jun 2017 · conferences, meetups &amp; workshops"
+      ],
+      [
+        "Corporate trainer — Mazenet",
+        "2021–2022 · testing &amp; automation training"
+      ]
+    ]
+  }
+}
