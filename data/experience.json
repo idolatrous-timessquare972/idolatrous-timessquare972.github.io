@@ -24,9 +24,21 @@
         }
       ],
       "awards": [
-        "🏆 Hackathon Gold · 1st place &#8217;25",
-        "🤝 Dream Team Award &#8217;25",
-        "🥇 Leader Award &#8217;25"
+        {
+          "icon": "🏆",
+          "title": "Hackathon Gold",
+          "note": "1st place · ’25"
+        },
+        {
+          "icon": "🤝",
+          "title": "Dream Team Award",
+          "note": "’25"
+        },
+        {
+          "icon": "🥇",
+          "title": "Leader Award",
+          "note": "’25"
+        }
       ]
     },
     {
@@ -51,7 +63,11 @@
         }
       ],
       "awards": [
-        "🏆 The 24K Gold Award &#8217;21"
+        {
+          "icon": "🏆",
+          "title": "The 24K Gold Award",
+          "note": "’21"
+        }
       ]
     },
     {
@@ -123,7 +139,11 @@
         }
       ],
       "awards": [
-        "⭐ Spot Awards &amp; Bugathon Runner-up &#8217;17"
+        {
+          "icon": "⭐",
+          "title": "Spot Awards &amp; Bugathon",
+          "note": "Runner-up · ’17"
+        }
       ]
     },
     {
@@ -138,7 +158,11 @@
       ],
       "metrics": [],
       "awards": [
-        "⭐ Spot Award &#8217;14"
+        {
+          "icon": "⭐",
+          "title": "Spot Award",
+          "note": "’14"
+        }
       ]
     }
   ]

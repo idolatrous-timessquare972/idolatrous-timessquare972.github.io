@@ -40,7 +40,7 @@
 
   function renderExperience(d) {
     var jobs = d.jobs.map(function (j) {
-      var awards = (j.awards && j.awards.length) ? '<div class="awrow">' + j.awards.map(function (a) { return '<span class="awchip">' + a + '</span>'; }).join('') + '</div>' : '';
+      var awards = (j.awards && j.awards.length) ? '<div class="awards"><span class="aw-lbl">Recognition</span><div class="aw-list">' + j.awards.map(function (a) { return '<span class="award"><span class="ic">' + a.icon + '</span><span class="aw-t"><b>' + a.title + '</b><i>' + a.note + '</i></span></span>'; }).join('') + '</div></div>' : '';
       var side = metrics(j.metrics) + awards;
       return '<div class="tl reveal" style="--c:' + j.c + '"><div class="jobcard">' +
         '<div class="jc-main">' +

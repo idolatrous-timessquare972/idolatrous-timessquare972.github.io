@@ -185,6 +185,14 @@ a { color: inherit; }
 .metric .ml { font-family: var(--mono); font-size: 0.65rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.03em; color: var(--muted); margin-top: 7px; line-height: 1.45; }
 .awrow { display: flex; flex-wrap: wrap; gap: 8px; }
 .awchip { display: inline-flex; align-items: center; gap: 7px; border: 2px solid var(--line); border-radius: 999px; background: var(--yellow); padding: 5px 12px; font-family: var(--mono); font-size: 0.7rem; font-weight: 700; color: var(--ink); }
+.awards { margin-top: 14px; }
+.aw-lbl { display: block; font-family: var(--mono); font-weight: 800; font-size: 0.62rem; letter-spacing: 0.09em; text-transform: uppercase; color: var(--muted); margin-bottom: 8px; }
+.aw-list { display: flex; flex-wrap: wrap; gap: 8px; }
+.award { display: inline-flex; align-items: center; gap: 9px; background: var(--card); border: 2px solid var(--line); border-left: 5px solid var(--yellow); border-radius: 9px; padding: 6px 12px 6px 9px; box-shadow: 2px 2px 0 var(--ink); }
+.award .ic { font-size: 0.98rem; line-height: 1; }
+.award .aw-t { display: flex; flex-direction: column; line-height: 1.18; }
+.award .aw-t b { font-family: var(--display); font-weight: 700; font-size: 0.86rem; color: var(--ink); }
+.award .aw-t i { font-style: normal; font-family: var(--mono); font-size: 0.63rem; color: var(--muted); margin-top: 1px; }
 @media (max-width: 920px) { .jobcard { grid-template-columns: 1fr; gap: 14px; } .jc-side { justify-content: flex-start; } }
 .skillstack { display: flex; flex-direction: column; gap: 18px; }
 .jobcard.skill { grid-template-columns: minmax(0, 0.85fr) minmax(0, 1.5fr); }
